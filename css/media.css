@@ -21,6 +21,14 @@
     }
 }
 
+@media (max-width:600px) {
+    round_icons_div > .pre_round_line, .round_line{
+        display: none !important;
+    }
+
+    
+}
+
 @media (max-width:1000px) {
     .bot_right {
         display: none;
@@ -124,11 +132,7 @@
         }
     }
 
-    @media (max-width:600px) {
-        .pre_round_line {
-           display: none !important;
-        }
-    }
+
 
     @media (max-width:991px) {
 
@@ -145,3 +149,5 @@
             margin-bottom: 10px;
         }
     }
+
+}
