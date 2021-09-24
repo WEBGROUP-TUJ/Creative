@@ -125,7 +125,7 @@
     }
 
     @media (max-width:600px) {
-        .round_line {
+        .pre_round_line {
            display: none !important;
         }
     }
