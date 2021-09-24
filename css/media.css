@@ -124,6 +124,12 @@
         }
     }
 
+    @media (max-width:600px) {
+        .round_line {
+           display: none !important;
+        }
+    }
+
     @media (max-width:991px) {
 
         .second_chap,
